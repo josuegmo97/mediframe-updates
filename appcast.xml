@@ -3,20 +3,12 @@
     <channel>
         <title>MediFrame</title>
         <item>
-            <title>3.3.0</title>
-            <pubDate>Tue, 15 Sep 2026 00:28:57 -0400</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>3.3.0</sparkle:shortVersionString>
+            <title>3.3.1</title>
+            <pubDate>Tue, 22 Sep 2026 11:54:56 -0400</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>3.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/josuegmo97/mediframe-updates/releases/download/v3.3.0/MediFrame-3.3.0-macos.zip" length="70579976" type="application/octet-stream" sparkle:edSignature="V+vPKtQY+uKCYUsDiubPnp7dbrd3diW02YGv1jxyoY9gxWgZEB4cbRRTR1jkQ/JQ3FvI1HtD8gcZs6bNreYkBw=="/>
-        </item>
-        <item>
-            <title>3.2.0</title>
-            <pubDate>Mon, 14 Sep 2026 01:53:03 -0400</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>3.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/josuegmo97/mediframe-updates/releases/download/v3.3.0/MediFrame-3.2.0-macos.zip" length="70022753" type="application/octet-stream" sparkle:edSignature="VTLsT+TJAFdpg/6bh4jfPyrboDoLytgHsdQlZd38Ye0QLGaT4ntv79f7bNHvWTBzNRTL/x/9q6ugGobrx3v0Cw=="/>
+            <enclosure url="https://github.com/josuegmo97/mediframe-updates/releases/download/v3.3.1/MediFrame-3.3.1-macos.zip" length="70959440" type="application/octet-stream" sparkle:edSignature="u187ACn9h+l627GdcHdo5b+6HpcFDdD5h4PAK7i61rrhkIZ4fMYPKyppIiiioW1hwdwYhhGCbgCjRdGVoK4iBQ=="/>
         </item>
     </channel>
 </rss>
