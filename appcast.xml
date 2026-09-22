@@ -3,12 +3,20 @@
     <channel>
         <title>MediFrame</title>
         <item>
+            <title>3.3.3</title>
+            <pubDate>Tue, 22 Sep 2026 13:41:36 -0400</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>3.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/josuegmo97/mediframe-updates/releases/download/v3.3.3/MediFrame-3.3.3-macos.zip" length="70973920" type="application/octet-stream" sparkle:edSignature="Omt8d8w0pYmCmcVJZbg/ylksb0hmMNQunqbcpGSq9Gn8FYJwrWtoyKls90Za8umYz+azh+6ZJ+yWEWVsiWDDBw=="/>
+        </item>
+        <item>
             <title>3.3.2</title>
             <pubDate>Tue, 22 Sep 2026 13:13:38 -0400</pubDate>
             <sparkle:version>26</sparkle:version>
             <sparkle:shortVersionString>3.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/josuegmo97/mediframe-updates/releases/download/v3.3.2/MediFrame-3.3.2-macos.zip" length="70971426" type="application/octet-stream" sparkle:edSignature="0cPFf/2Xq9TnkhXC5b2wZupx6drtfrsc1dOEKDAlPL4qTnfsyzUa7feF7JfQXlJm/jgtma47bLFqW274C7UlDw=="/>
+            <enclosure url="https://github.com/josuegmo97/mediframe-updates/releases/download/v3.3.3/MediFrame-3.3.2-macos.zip" length="70971426" type="application/octet-stream" sparkle:edSignature="0cPFf/2Xq9TnkhXC5b2wZupx6drtfrsc1dOEKDAlPL4qTnfsyzUa7feF7JfQXlJm/jgtma47bLFqW274C7UlDw=="/>
         </item>
         <item>
             <title>3.3.1</title>
@@ -16,7 +24,7 @@
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>3.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/josuegmo97/mediframe-updates/releases/download/v3.3.2/MediFrame-3.3.1-macos.zip" length="70959440" type="application/octet-stream" sparkle:edSignature="u187ACn9h+l627GdcHdo5b+6HpcFDdD5h4PAK7i61rrhkIZ4fMYPKyppIiiioW1hwdwYhhGCbgCjRdGVoK4iBQ=="/>
+            <enclosure url="https://github.com/josuegmo97/mediframe-updates/releases/download/v3.3.3/MediFrame-3.3.1-macos.zip" length="70959440" type="application/octet-stream" sparkle:edSignature="u187ACn9h+l627GdcHdo5b+6HpcFDdD5h4PAK7i61rrhkIZ4fMYPKyppIiiioW1hwdwYhhGCbgCjRdGVoK4iBQ=="/>
         </item>
     </channel>
 </rss>
