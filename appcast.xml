@@ -3,12 +3,12 @@
     <channel>
         <title>MediFrame</title>
         <item>
-            <title>3.4.0</title>
-            <pubDate>Wed, 07 Oct 2026 14:04:11 -0400</pubDate>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>3.4.0</sparkle:shortVersionString>
+            <title>4.0.0</title>
+            <pubDate>Tue, 13 Oct 2026 08:45:09 -0400</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>4.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/josuegmo97/mediframe-updates/releases/download/v3.4.0/MediFrame-3.4.0-macos.zip" length="68375183" type="application/octet-stream" sparkle:edSignature="6nrvaIqjKUCiDwzSyeP1M+XE6QgFJKhfcILKZ00bkVsVt8VG6qg+FiCmmuqQWIOVeb+iUdPDzZVzqnZ/TGexBA=="/>
+            <enclosure url="https://github.com/josuegmo97/mediframe-updates/releases/download/v4.0.0/MediFrame-4.0.0-macos.zip" length="68952150" type="application/octet-stream" sparkle:edSignature="NFbbclPQHH7eN5sXQoKHjMDSxXLMiDIACwNfaat1zGOmEi8Tm2O5QNuEz80PWHzro6M9jWI2lJYFSbFeDTHLCQ=="/>
         </item>
     </channel>
 </rss>
