@@ -3,12 +3,20 @@
     <channel>
         <title>MediFrame</title>
         <item>
+            <title>4.0.1</title>
+            <pubDate>Tue, 27 Oct 2026 16:23:14 -0400</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>4.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/josuegmo97/mediframe-updates/releases/download/v4.0.1/MediFrame-4.0.1-macos.zip" length="68631026" type="application/octet-stream" sparkle:edSignature="7mhiF3mVvsqSduimVstFmWORFNy9a20mlFTvLttftf7tNan2X+qLnAF9b002bILqUK+HOjZY4IVwwk6015SWCg=="/>
+        </item>
+        <item>
             <title>4.0.0</title>
             <pubDate>Tue, 13 Oct 2026 08:45:09 -0400</pubDate>
             <sparkle:version>29</sparkle:version>
             <sparkle:shortVersionString>4.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/josuegmo97/mediframe-updates/releases/download/v4.0.0/MediFrame-4.0.0-macos.zip" length="68952150" type="application/octet-stream" sparkle:edSignature="NFbbclPQHH7eN5sXQoKHjMDSxXLMiDIACwNfaat1zGOmEi8Tm2O5QNuEz80PWHzro6M9jWI2lJYFSbFeDTHLCQ=="/>
+            <enclosure url="https://github.com/josuegmo97/mediframe-updates/releases/download/v4.0.1/MediFrame-4.0.0-macos.zip" length="68952150" type="application/octet-stream" sparkle:edSignature="NFbbclPQHH7eN5sXQoKHjMDSxXLMiDIACwNfaat1zGOmEi8Tm2O5QNuEz80PWHzro6M9jWI2lJYFSbFeDTHLCQ=="/>
         </item>
     </channel>
 </rss>
